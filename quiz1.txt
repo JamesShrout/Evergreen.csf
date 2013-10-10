@@ -1,0 +1,7 @@
+#Grader: Travis Malone
+#Evergreen Login: maltra16
+
+import lab2.n
+while x < 10 print "hello world"
+x = x + 1
+loop
